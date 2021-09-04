@@ -1,0 +1,20 @@
+{
+  "name": "start-with-github-actions",
+  "version": "1.0.0",
+  "description": "Start demo application with gitHub Actions automation service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo-Costa/start-with-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricardo-Costa/start-with-github-actions/issues"
+  },
+  "homepage": "https://github.com/Ricardo-Costa/start-with-github-actions#readme"
+}
