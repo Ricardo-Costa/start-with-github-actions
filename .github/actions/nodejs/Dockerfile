@@ -1,5 +1,5 @@
 FROM node:latest
 
-ADD entrepoint.sh /entrepoint.sh
-RUN chmod +x /entrepoint.sh
-ENTRYPOINT [ "/entrepoint.sh" ]
+ADD entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+ENTRYPOINT [ "/entrypoint.sh" ]
