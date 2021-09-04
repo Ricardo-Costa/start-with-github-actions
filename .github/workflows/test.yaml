@@ -2,7 +2,7 @@ name: Jest Tests
 on:
   push:
     paths:
-      - 'src/**/*.spec.js'
+      - './src/**/*.spec.js'
 
 jobs:
   build:
